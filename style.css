@@ -1,0 +1,32 @@
+p, div 
+{	
+	font-family: trebuchet ms, arial, verdana;	
+	font-size: 11px;
+	line-height: 19px;
+	text-indent: 20px;
+}
+
+td
+{
+	font-family: trebuchet ms, arial, verdana;	
+	font-size: 11px;
+	line-height: 19px;
+}
+
+a 
+{
+	color:#7D839F;
+ 	text-decoration: none;
+ 	font-size: 10px;
+}
+
+b, i 
+{
+	background-color:#F0F1F6;
+}
+
+a:hover 
+{
+	color: #ffffff;	cursor:crosshair;
+	background-color:#D7D8DF;
+}
